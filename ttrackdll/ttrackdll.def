@@ -1,0 +1,3 @@
+LIBRARY
+SECTIONS
+    .sharedata READ WRITE SHARED

@@ -1,0 +1,3 @@
+Main icon was downloaded from http://www.everaldo.com/crystal/
+Icon's license is LGPL.
+Details: http://www.everaldo.com/crystal/?action=license
