@@ -1,4 +1,4 @@
-﻿TTrack
+TTrack
 
 About:   TTrack はアクティブなウィンドウを淡々と記録し続けるアプリケーションです。
 Author:  mallowlabs (http://d.hatena.ne.jp/mallowlabs/)
